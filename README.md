@@ -20,3 +20,7 @@ The game utilizes Pygame to manage graphics, user input, and the core game loop.
 
 * Pygame (Used Version 2.2.0)
 * Pycripter (Used Version 3.6)
+
+### Installing
+
+* Ensure to extract the "Blaec_Font_1_1.zip" file before running the program on an IDE that is compatible with Pygame (recommend Pyscripter).
